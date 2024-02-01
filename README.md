@@ -11,7 +11,7 @@
     - [LinkedIn](https://linkedin.com/in/emanuelecalo/)
     - [GitHub](https://github.com/eldios)
     - [Telegram](https://t.me/eldios)
-    - [Matrix](@eldios:chat.lele.rip)
+    - Matrix: @eldios:chat.lele.rip
 
 <p align="center">
   <a href="https://github.com/eldios/">
