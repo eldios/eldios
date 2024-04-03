@@ -3,11 +3,13 @@
 [![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://builtwithnix.org/)
 [![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://nixos.org/)
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
+
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![OpenTofu](https://img.shields.io/badge/OpenTofu-%23FFDA18.svg?&style=for-the-badge&logo=opentofu&logoColor=white)](https://opentofu.org)
 [![Rust](https://img.shields.io/badge/Rust-%23F36D00.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+
 [![Bitcoin](https://img.shields.io/badge/bitcoin-%23F7931A.svg?&style=for-the-badge&logo=bitcoin&logoColor=white)](https://bitcoin.org)
 [![Lightning(BTC)](https://img.shields.io/badge/lightning-%23792EE5.svg?&style=for-the-badge&logo=lightning&logoColor=white)](https://lightning.network)
 [![Solana](https://img.shields.io/badge/solana-%239945FF.svg?&style=for-the-badge&logo=solana&logoColor=white)](https://solana.org)
