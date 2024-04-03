@@ -21,8 +21,8 @@
     * techie projects, like using [OpenTofu](https://opentofu.org) (or [Terraform](https://terraform.io)) to "automate all the things!"
     * techie projects, like spinning up [Kubernetes](https://kubernetes.io) clusters everywhere, usually via [kubeadm](https://github.com/kubernetes/kubeadm) or [k3s](https://k3s.io) or on cloud providers
     * techie projects, including coding in [Rust](https://rust-lang.org), [Python](https://python.org) or [Go](https://go.dev)... or any other language, really
-    * techie divulgatory stuff at conferences or on ([my YT Tech channel](https://youtube.com/LeleOnTech))
-    * Scout stuff in the wild or on ([my YT Scout channel](https://youtube.com/LeleOnScout))
+    * techie divulgatory stuff at conferences or on ([my YT Tech channel](https://youtube.com/@LeleOnTech))
+    * Scout stuff in the wild or on ([my YT Scout channel](https://youtube.com/@LeleOnScout))
 - :penguin: currently my distro of choice is [nixOS](https://nixos.org/) and I'll be happy to talk with newcomers or other enthusiasts of Nix and the whole ecosystem.
 - :coin: I'm a crypto enthusiast, and I love the [Bitcoin](https://bitcoin.org/) & [BTC Lightning](https://lightning.network), [Solana](https://solana.com) and the [ethereum](https://ethereum.org/)/[eVM](https://ethereum.org/en/developers/docs/evm) ecosystems ... but my first and true crypto-love is [Monero](https://www.getmonero.org/).
 - :mailbox: Reach me over any of my links below:
