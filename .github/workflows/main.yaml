@@ -28,7 +28,9 @@ jobs:
           #repositories_forks: yes
           use_prebuilt_image: yes
 
-          plugin_achievements: yes
+          # achievements queries the deprecated Projects classic API and fails
+          # (upstream lowlighter/metrics#1706, fix PR #1769 unmerged)
+          plugin_achievements: no
           plugin_achievements_display: compact
           plugin_achievements_ignored: explorer, infographile, member, worker, verified
           plugin_achievements_secrets: yes
