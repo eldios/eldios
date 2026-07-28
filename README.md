@@ -14,10 +14,14 @@
 [![Lightning(BTC)](https://img.shields.io/badge/lightning-%23792EE5.svg?&style=for-the-badge&logo=lightning&logoColor=white)](https://lightning.network)
 [![Solana](https://img.shields.io/badge/solana-%239945FF.svg?&style=for-the-badge&logo=solana&logoColor=white)](https://solana.com)
 
-- :telescope: I'm kind of an eclectic person, with a spark interest in Linux, DevOps/SRE and cryptocurrencies.
+- :telescope: I'm kind of an eclectic person, with a keen interest in Linux, DevOps/SRE and cryptocurrencies.
 
   During my days (and nights) you can find me playing with:
-    * techie divulgatory stuff at conferences or on [my YT Tech channel](https://youtube.com/@LeleOnTech)
+    * [Nix, nixpkgs and NixOS](https://github.com/NixOS/nixpkgs/), constantly tweaking [my dotfiles](https://github.com/eldios/dotfiles)
+    * [OpenTofu](https://opentofu.org) (or [Terraform](https://terraform.io)) to "automate all the things!"
+    * [Kubernetes](https://kubernetes.io) clusters everywhere, usually via [kubeadm](https://github.com/kubernetes/kubeadm), [k3s](https://k3s.io) or on cloud providers
+    * code in [Rust](https://rust-lang.org), [Go](https://go.dev) or [Python](https://python.org) ... or any other language, really
+    * tech talks at conferences or on [my YT Tech channel](https://youtube.com/@LeleOnTech)
     * Scout stuff in the wild or on [my YT Scout channel](https://youtube.com/@LeleOnScout)
 - :penguin: currently my distro of choice is [NixOS](https://nixos.org/) and I'll be happy to talk with newcomers or other enthusiasts of Nix and the whole ecosystem.
 - :coin: I'm a crypto enthusiast, and I love the [Bitcoin](https://bitcoin.org/) & [BTC Lightning](https://lightning.network), [Solana](https://solana.com) and the [Ethereum](https://ethereum.org/)/[EVM](https://ethereum.org/en/developers/docs/evm) ecosystems ... but my first and true crypto-love is [Monero](https://www.getmonero.org/).
