@@ -26,10 +26,11 @@
 - :penguin: currently my distro of choice is [NixOS](https://nixos.org/) and I'll be happy to talk with newcomers or other enthusiasts of Nix and the whole ecosystem.
 - :coin: I'm a crypto enthusiast, and I love the [Bitcoin](https://bitcoin.org/) & [BTC Lightning](https://lightning.network), [Solana](https://solana.com) and the [Ethereum](https://ethereum.org/)/[EVM](https://ethereum.org/en/developers/docs/evm) ecosystems ... but my first and true crypto-love is [Monero](https://www.getmonero.org/).
 - :mailbox: Reach me over any of my links below:
-    - [LinkedIn](https://linkedin.com/in/emanuelecalo/)
-    - [GitHub](https://github.com/eldios)
-    - [Telegram](https://t.me/eldios)
-    - [Reticulum](https://reticulum.network): `27aea3f21029bdab9cb603a00eac10b5`
+    - [LinkedIn: https://linkedin.com/in/emanuelecalo/](https://linkedin.com/in/emanuelecalo/)
+    - [Matrix: @eldios:chat.lele.rip](@eldios:chat.lele.rip)
+    - [Reticulum/LXMF](https://reticulum.network): `27aea3f21029bdab9cb603a00eac10b5`
+    - [Telegram: https://t.me/eldios](https://t.me/eldios)
+    - [GitHub: https://github.com/eldios](https://github.com/eldios)
 
 <p align="center">
   <a href="https://github.com/eldios/">
